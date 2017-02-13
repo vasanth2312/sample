@@ -1,1 +1,2 @@
 hello git its nice to learn you
+it nice to learn from git
